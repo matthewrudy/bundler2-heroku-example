@@ -1,3 +1,4 @@
+```
 $ cd /tmp
 
 $ git clone https://github.com/matthewrudy/bundler2-heroku-example.git
@@ -268,3 +269,4 @@ remote: bundler: failed to load command: rails (/app/vendor/bundle/ruby/2.6.0/bi
 remote: Waiting for release..... failed.
 To https://git.heroku.com/infinite-sea-66853.git
  * [new branch]      master -> master
+```
