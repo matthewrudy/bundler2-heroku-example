@@ -21,13 +21,6 @@ https://infinite-sea-66853.herokuapp.com/ | https://git.heroku.com/infinite-sea-
 
 
 
-$ heroku buildpacks:set https://github.com/bundler/heroku-buildpack-bundler2.git
-
-git Buildpack set. Next release on infinite-sea-66853 will use https://github.com/bundler/heroku-buildpack-bundler2.git.
-Run git push heroku master to create a new release using this buildpack.
-
-
-
 $ git push heroku master
 
 Enumerating objects: 94, done.
